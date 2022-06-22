@@ -62,7 +62,7 @@ nav a:active {
 
 .active {
   background-color: hsla(0, 0%, 77%);
-  color: black;
+  color: white;
 }
 
 main {
