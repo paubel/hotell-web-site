@@ -17,15 +17,14 @@ header {
 }
 
 header .header-logo {
-  max-width: 120vw;
-  max-height: 20vh;
+  object-fit: contain;
+  width: 20vw;
+  max-height: 12vh;
 }
 
 header .header-img {
-  width: 80vw;
-  height: 15vw;
-  max-height: 20vh;
-
+  width: 70vw;
+  max-height: 12vh;
   object-fit: cover;
   border-radius: 20px;
 }
