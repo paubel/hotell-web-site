@@ -48,8 +48,9 @@ Din webbplats ska vara responsiv och mobilanpassad. Här finns alla info om grid
 
 Minska bildernas storlek om de är för stora med tex: https://ezgif.com/optijpeg
 
-Ingen bild får vara större än 1500x1000 och max 300 kB
+Ingen bild får vara större än 1500x1200 och max 400 kB
 
+HERE
 inga bilder eller karta får ha förvrängd proportionalitet.
 
 Löptexten på alla sidor ska ha vänsterställd text (möjligtvis högerställd text om det ser bra ut)
